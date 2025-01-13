@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: http://runaqlib.hosting.nyu.edu/
+url: https://runaqlib.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /runakunaqbibliotecanku
 # location of code, the full url to your github repository
 source-code: https://github.com/runaqlib/library
 
