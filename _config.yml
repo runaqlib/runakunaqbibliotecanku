@@ -25,7 +25,7 @@ tagline: The People's Library
 # this description might appear in search result lists, keep around 160 characters max
 description: "Runakunaq Bibliotecanku is a collection of Quechua and Andean-centered materials."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: quechua;runasimi;andean studies
+keywords: quechua;runasimi;andean studies;library;open educational resources
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Alia Warsco
 
@@ -50,18 +50,14 @@ metadata: printmaterial
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Latin American and Caribbean Studies at NYU"
-organization-link: https://as.nyu.edu/research-centers/clacs.html
-organization-logo-banner: https://s18798.pcdn.co/colombianstudiesinitiative/wp-content/uploads/sites/20879/2021/08/CLACS_black-horizontal-300x187.png
-organization-logo-nav: https://pbs.twimg.com/profile_images/1623486449583628290/Piswbme2_400x400.jpg
 
 ##########
 # GOOGLE SERVICES [optional!]
 #
 # leave these blank or comment out to NOT include google code
 # if present, used to add analytics during "production" build only
-# google-analytics-id: "G-XXXXXXXXX"
-# google-cse-id: "002151703305773322890:1pu3smhw1t8"
+# google-analytics-id: 
+# google-cse-id: 
 
 ##########
 # ROBOTS EXCLUDE
